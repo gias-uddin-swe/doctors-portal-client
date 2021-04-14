@@ -1,0 +1,8 @@
+.blog-container {
+  width: 350px;
+  height: 350px;
+  border: 2px solid rgb(241, 232, 232);
+}
+.blog-green {
+  background-color: green;
+}

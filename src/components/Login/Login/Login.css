@@ -1,0 +1,36 @@
+.login-input {
+  width: 320px;
+  height: 46px;
+  border-radius: 5px;
+  border: none;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  outline-color: rgb(231, 231, 231);
+  padding: 10px;
+  margin-top: 10px;
+}
+.login-btn {
+  width: 320px;
+  height: 46px;
+  font-weight: 500;
+  color: white;
+  background-color: #f91944;
+  border: none;
+  transition: 0.8s;
+}
+.google-btn {
+  margin-top: 20px;
+  width: 320px;
+  height: 38px;
+  /* background-color: rgb(0, 0, 0); */
+  color: black;
+  border-radius: 25px;
+  border: 1px solid black;
+  transition: 0.8s;
+}
+.google-btn:hover {
+  background-color: black;
+  color: white;
+}
+.login-image img {
+  width: 80%;
+}

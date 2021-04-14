@@ -1,0 +1,18 @@
+.footer {
+  width: 75%;
+  background-image: url("../../../images/Mask Group 2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+.footer li {
+  list-style: none;
+  text-align: center;
+}
+.footer li a {
+  text-decoration: none;
+  color: rgb(180, 190, 201);
+}

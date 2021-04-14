@@ -1,0 +1,8 @@
+.testimonial-container {
+  width: 100%;
+  height: 350px;
+  /* border: 1px solid yellow; */
+}
+.testimonial-container img {
+  width: 150px;
+}

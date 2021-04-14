@@ -1,0 +1,10 @@
+.reviews-container {
+  width: 300px;
+  height: 330px;
+  border: 2px solid rgb(236, 229, 229);
+  padding: 20px;
+  text-align: center;
+}
+.reviews {
+  padding: 20px;
+}
